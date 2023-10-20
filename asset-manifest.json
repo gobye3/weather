@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e8a2edb.css",
+    "main.js": "/static/js/main.1201bed7.js",
+    "static/js/496.d819fdac.chunk.js": "/static/js/496.d819fdac.chunk.js",
+    "static/media/SpoqaHanSansNeo-Bold.woff": "/static/media/SpoqaHanSansNeo-Bold.dc75532918fd412e27a3.woff",
+    "static/media/SpoqaHanSansNeo-Regular.woff": "/static/media/SpoqaHanSansNeo-Regular.4af655e2b88a518cc85c.woff",
+    "static/media/SpoqaHanSansNeo-Medium.woff": "/static/media/SpoqaHanSansNeo-Medium.823120084c9ac260b260.woff",
+    "static/media/SpoqaHanSansNeo-Bold.woff2": "/static/media/SpoqaHanSansNeo-Bold.1db18034ccc384032a4a.woff2",
+    "static/media/SpoqaHanSansNeo-Regular.woff2": "/static/media/SpoqaHanSansNeo-Regular.452bf1579d6a73fbaffc.woff2",
+    "static/media/SpoqaHanSansNeo-Medium.woff2": "/static/media/SpoqaHanSansNeo-Medium.8589927a4fa35d637a8d.woff2",
+    "index.html": "/index.html",
+    "main.9e8a2edb.css.map": "/static/css/main.9e8a2edb.css.map",
+    "main.1201bed7.js.map": "/static/js/main.1201bed7.js.map",
+    "496.d819fdac.chunk.js.map": "/static/js/496.d819fdac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e8a2edb.css",
+    "static/js/main.1201bed7.js"
+  ]
+}
